@@ -1,7 +1,7 @@
 # python_mini_projects
 Here I will post mini-projects that I code while learning Python 3. This will mainly serve to share and see my progress.
 
-In week 1:
+In week 1 (28.01.2019) (03.02.2019):
 
 Guess the number - You have to input the number the code is choosing randomly.
 
