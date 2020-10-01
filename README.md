@@ -1,9 +1,9 @@
 # python_mini_projects
-Here I will post mini-projects that I code while learning Python 3. This will mainly serve to share and see my progress.
+Here I will post mini-projects that I will code while learning Python 3. This will mainly serve to share and see my progress.
 
 In week 1 (28.01.2019) (03.02.2019):
 
-Guess the number - You have to input the number the code is choosing randomly.
+Guess the number - You have to enter the number the code is choosing randomly.
 
 Roll the dice - It will print out an integer ranging from 1-6.
 
